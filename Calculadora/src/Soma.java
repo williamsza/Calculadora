@@ -6,6 +6,11 @@ public class Soma {
         this.soma = soma;
     }
 
+    public int calcular(int a, int b){
+
+        return a + b;
+    }
+
     public int getSoma() {
         return soma;
     }

@@ -6,6 +6,11 @@ public class Multiplicacao {
         this.multiplicacao = multiplicacao;
     }
 
+    public int calcular(int a, int b){
+
+        return a * b;
+    }
+
     public int getMultiplicacao() {
         return multiplicacao;
     }

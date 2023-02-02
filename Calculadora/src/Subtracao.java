@@ -6,6 +6,13 @@ public class Subtracao {
         this.subtracao = subtracao;
     }
 
+
+    public int calcular(int a, int b){
+
+        return a - b;
+    }
+
+
     public int getSubtracao() {
         return subtracao;
     }
